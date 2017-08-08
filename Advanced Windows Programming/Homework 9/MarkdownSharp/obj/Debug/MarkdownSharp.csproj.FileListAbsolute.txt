@@ -1,0 +1,5 @@
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 9\MarkdownSharp\bin\Debug\MarkdownSharp.dll
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 9\MarkdownSharp\bin\Debug\MarkdownSharp.pdb
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 9\MarkdownSharp\obj\Debug\MarkdownSharp.csprojResolveAssemblyReference.cache
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 9\MarkdownSharp\obj\Debug\MarkdownSharp.dll
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 9\MarkdownSharp\obj\Debug\MarkdownSharp.pdb

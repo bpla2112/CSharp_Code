@@ -1,0 +1,17 @@
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 8\Group8_Homework8\Group8_Homework8\bin\Debug\Group8_Homework8.exe.config
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 8\Group8_Homework8\Group8_Homework8\bin\Debug\Group8_Homework8.exe
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 8\Group8_Homework8\Group8_Homework8\bin\Debug\Group8_Homework8.pdb
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 8\Group8_Homework8\Group8_Homework8\bin\Debug\FoundationControlLibrary.dll
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 8\Group8_Homework8\Group8_Homework8\bin\Debug\FoundationControlLibrary.pdb
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 8\Group8_Homework8\Group8_Homework8\obj\Debug\Group8_Homework8.csprojResolveAssemblyReference.cache
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 8\Group8_Homework8\Group8_Homework8\obj\Debug\Group8_Homework8.AboutDialog.resources
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 8\Group8_Homework8\Group8_Homework8\obj\Debug\Group8_Homework8.AddTextDialog.resources
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 8\Group8_Homework8\Group8_Homework8\obj\Debug\Group8_Homework8.MainForm.resources
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 8\Group8_Homework8\Group8_Homework8\obj\Debug\Group8_Homework8.OathDialog.resources
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 8\Group8_Homework8\Group8_Homework8\obj\Debug\Group8_Homework8.ObjectPropertiesDialog.resources
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 8\Group8_Homework8\Group8_Homework8\obj\Debug\Group8_Homework8.Properties.Resources.resources
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 8\Group8_Homework8\Group8_Homework8\obj\Debug\Group8_Homework8.SearchDialog.resources
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 8\Group8_Homework8\Group8_Homework8\obj\Debug\Group8_Homework8.TextOptionsDialog.resources
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 8\Group8_Homework8\Group8_Homework8\obj\Debug\Group8_Homework8.csproj.GenerateResource.Cache
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 8\Group8_Homework8\Group8_Homework8\obj\Debug\Group8_Homework8.exe
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 8\Group8_Homework8\Group8_Homework8\obj\Debug\Group8_Homework8.pdb

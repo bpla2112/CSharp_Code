@@ -1,0 +1,12 @@
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 9\FoundationControlLibrary\bin\Debug\FoundationControlLibrary.dll
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 9\FoundationControlLibrary\bin\Debug\FoundationControlLibrary.pdb
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 9\FoundationControlLibrary\obj\Debug\FoundationControlLibrary.csprojResolveAssemblyReference.cache
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 9\FoundationControlLibrary\obj\Debug\FoundationControlLibrary.BaseDialogForm.resources
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 9\FoundationControlLibrary\obj\Debug\FoundationControlLibrary.BaseForm.resources
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 9\FoundationControlLibrary\obj\Debug\FoundationControlLibrary.CourseSemesterUserControl.resources
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 9\FoundationControlLibrary\obj\Debug\FoundationControlLibrary.GroupNamesUserControl.resources
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 9\FoundationControlLibrary\obj\Debug\FoundationControlLibrary.OathUserControl.resources
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 9\FoundationControlLibrary\obj\Debug\FoundationControlLibrary.Properties.Resources.resources
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 9\FoundationControlLibrary\obj\Debug\FoundationControlLibrary.csproj.GenerateResource.Cache
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 9\FoundationControlLibrary\obj\Debug\FoundationControlLibrary.dll
+C:\Users\bpla\Documents\Development - Personal\COP 4226\Homework 9\FoundationControlLibrary\obj\Debug\FoundationControlLibrary.pdb
